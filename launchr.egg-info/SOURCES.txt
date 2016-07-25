@@ -1,0 +1,14 @@
+MANIFEST.in
+setup.cfg
+launchr/__init__.py
+launchr/flaskr.py
+launchr/schema.sql
+launchr.egg-info/PKG-INFO
+launchr.egg-info/SOURCES.txt
+launchr.egg-info/dependency_links.txt
+launchr.egg-info/requires.txt
+launchr.egg-info/top_level.txt
+launchr/static/style.css
+launchr/templates/layout.html
+launchr/templates/login.html
+launchr/templates/show_entries.html

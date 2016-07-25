@@ -1,0 +1,3 @@
+graft launchr/templates
+graft launchr/static
+include launchr/schema.sql
